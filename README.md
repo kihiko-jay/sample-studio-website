@@ -1,2 +1,2 @@
 # sample-studio-website
-this ia simple studio website i created using html and css only
+This is a simple website i create using html and css only
